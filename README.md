@@ -39,9 +39,9 @@ Think of this repo as a gym log for analytics skills: each entry is small, but t
 Potato-Project/
 ├── README.md
 └── 2026 Learning Logs/
-    └── October/
-        └── 1st October - SQL Window Functions & Aggregation/
-            ├── SQL-Interview-Problems.sql
+    └── Month/
+        └── Date - Topic/
+            ├── SQL File
             └── README.md
 ```
 
