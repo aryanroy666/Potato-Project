@@ -2,7 +2,7 @@
 
 **Date:** October 1, 2026
 **Dialect:** PostgreSQL
-**File:** [`oct-01-sql-interview-problems.sql`](2026 Learning Logs/October/1st October - SQL Window Functions & Aggregation/SQL-Interview-Problems.sql)
+**File:** [SQL Interview Problems](https://github.com/aryanroy666/Potato-Project/blob/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL-Interview-Problems.sql)
 
 ## What I Learned
 
