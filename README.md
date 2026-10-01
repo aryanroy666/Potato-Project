@@ -1,0 +1,116 @@
+# 🥔 Potato Project
+
+A long-running daily log of my data analytics journey. Every day I add one small, real piece of work: a SQL problem set, a Python analysis, a dashboard, or an interview prep note. The goal is simple: **show up every day, learn something concrete, and keep the proof.**
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Updates](https://img.shields.io/badge/updates-daily-blue)
+![Focus](https://img.shields.io/badge/focus-data%20analytics-orange)
+
+---
+
+## 🎯 Purpose
+
+- Build a consistent daily learning habit that compounds over time
+- Create a public, searchable record of real analytics work
+- Practice explaining concepts in plain language, the way I would in an interview
+- Collect reusable SQL, Python, and BI solutions in one place
+
+Think of this repo as a gym log for analytics skills: each entry is small, but the history shows the real progress.
+
+---
+
+## 🧰 Tools and Topics Covered
+
+| Area | What I Practice |
+|------|-----------------|
+| **SQL** | Joins, aggregations, window functions, CTEs, query optimization |
+| **Python** | Pandas, NumPy, data cleaning, EDA, visualization |
+| **Power BI / Tableau** | Dashboards, DAX basics, storytelling with data |
+| **Excel** | Formulas, pivot tables, quick analysis |
+| **Statistics** | Hypothesis testing, A/B testing, distributions |
+| **Machine Learning** | Core algorithms, model evaluation |
+| **Interview Prep** | Concept explanations, problem-solving patterns, case-style questions |
+
+---
+
+## 📁 Repository Structure
+
+```
+Potato-Project/
+├── README.md
+└── 2026 Learning Logs/
+    └── October/
+        └── 1st October - SQL Window Functions & Aggregation/
+            ├── SQL-Interview-Problems.sql
+            └── README.md
+```
+
+Each day gets its own folder named `<date> - <topic>`, containing the code or analysis plus a short note on what I learned. Months are grouped inside the year folder, so the repo stays organized as it grows.
+
+---
+
+## 📅 Progress Index
+
+| Day | Date | Topic | Link |
+|-----|------|-------|------|
+| 1 | Oct 1, 2026 | SQL Window Functions & Aggregation | [Open folder](https://github.com/aryanroy666/Potato-Project/tree/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation) · [SQL file](https://github.com/aryanroy666/Potato-Project/blob/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL-Interview-Problems.sql) |
+
+*This table is updated as new entries are added.*
+
+---
+
+## 🧭 How Each Entry Is Structured
+
+Every daily entry follows the same simple pattern:
+
+1. **The work**: a SQL file, notebook, script, or dashboard
+2. **A short note**: what I learned, explained in plain language with an example
+3. **Interview angle**: how the concept shows up in real questions and business scenarios
+
+Where a task needs data, I include a small sample dataset or setup script so anyone can run it and check the output.
+
+---
+
+## ▶️ How to Use This Repo
+
+1. Browse the **Progress Index** above and open any day that interests you.
+2. For SQL files, run the setup section first (it creates a sample table), then run each problem one by one.
+3. Read the day's README for the explanation before looking at the solution, then compare it with your own approach.
+
+To clone it locally:
+
+```bash
+git clone https://github.com/aryanroy666/Potato-Project.git
+cd Potato-Project
+```
+
+---
+
+## 🗺️ Roadmap
+
+This repo has no end date. The themes below rotate over time:
+
+- **SQL**: window functions, CTEs, subqueries, performance tuning, real business case problems
+- **Python**: data cleaning, exploratory analysis on public datasets, visualization
+- **BI**: Power BI and Tableau dashboards with written insights
+- **Statistics**: hypothesis testing, A/B test analysis, confidence intervals
+- **ML basics**: model building and evaluation on small datasets
+- **Interview prep**: concept deep-dives, mock case questions, problem patterns
+
+---
+
+## 👤 About the Author
+
+**Aryan Roy**, aspiring Data Analyst focused on Data Analyst, Business Analyst, and Power BI Analyst roles. This repo is where I practice in public and keep myself accountable.
+
+📌 GitHub: [@aryanroy666](https://github.com/aryanroy666)
+
+---
+
+## 🤝 Feedback
+
+Spotted a mistake, or know a cleaner way to solve something? Open an issue or send a pull request. Corrections are welcome, and I'll credit improvements in the day's notes.
+
+---
+
+⭐ If you find something useful here, consider starring the repo.
