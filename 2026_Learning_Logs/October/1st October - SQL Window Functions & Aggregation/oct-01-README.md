@@ -2,7 +2,7 @@
 
 **Date:** October 1, 2026
 **Dialect:** PostgreSQL
-**File:** [`SQL_Interview_Problems.sql`](2026_Learning_Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL_Interview_Problems)
+**File:** [`SQL_Interview_Problems.sql`](./2026_Learning_Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL_Interview_Problems)
 
 ## What I Learned
 
