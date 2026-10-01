@@ -49,16 +49,6 @@ Each day gets its own folder named `<date> - <topic>`, containing the code or an
 
 ---
 
-## 📅 Progress Index
-
-| Day | Date | Topic | Link |
-|-----|------|-------|------|
-| 1 | Oct 1, 2026 | SQL Window Functions & Aggregation | [Open folder](https://github.com/aryanroy666/Potato-Project/tree/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation) · [SQL file](https://github.com/aryanroy666/Potato-Project/blob/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL-Interview-Problems.sql) |
-
-*This table is updated as new entries are added.*
-
----
-
 ## 🧭 How Each Entry Is Structured
 
 Every daily entry follows the same simple pattern:
