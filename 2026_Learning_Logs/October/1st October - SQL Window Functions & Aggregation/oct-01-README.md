@@ -2,7 +2,7 @@
 
 **Date:** October 1, 2026
 **Dialect:** PostgreSQL
-**File:** [`oct-01-sql-interview-problems.sql`](./oct-01-sql-interview-problems.sql)
+**File:** [`SQL-Interview-Problems.sql`](./SQL-Interview-Problems.sql)
 
 ## What I Learned
 
