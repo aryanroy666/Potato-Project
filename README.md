@@ -1,4 +1,4 @@
-# 🥔 Potato Project 2026
+# 🥔 Potato Project
 
 A long-running daily log of my data analytics journey. Every day I add one small, real piece of work: a SQL problem set, a Python analysis, a dashboard, or an interview prep note. The goal is simple: **show up every day, learn something concrete, and keep the proof.**
 
@@ -38,17 +38,18 @@ Think of this repo as a gym log for analytics skills: each entry is small, but t
 ```
 Potato-Project/
 ├── README.md
-└── 2026 Learning Logs/
-    └── October/
-        ├── 1st October - SQL Window Functions & Aggregation/
-        │   ├── SQL-Interview-Problems.sql
-        │   └── README.md
-        └── 2nd October - Pandas Data Cleaning & EDA/
-            ├── Pandas-Data-Cleaning-EDA.py
-            └── README.md
+└── 2026 Lessons/
+    ├── SQL/
+    │   └── Window Functions and Aggregation/
+    │       ├── README.md
+    │       └── SQL Interview Problems - Window Functions and Aggregation.sql
+    └── Pandas/
+        └── Data Cleaning EDA/
+            ├── README.md
+            └── Pandas Data Cleaning & EDA.py
 ```
  
-Each day gets its own folder named `<date> - <topic>`, containing the code or analysis plus a short note on what I learned. Months are grouped inside the year folder, so the repo stays organized as it grows.
+Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
  
 ---
 
