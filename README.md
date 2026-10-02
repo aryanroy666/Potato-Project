@@ -32,21 +32,24 @@ Think of this repo as a gym log for analytics skills: each entry is small, but t
 | **Interview Prep** | Concept explanations, problem-solving patterns, case-style questions |
 
 ---
-
+ 
 ## 📁 Repository Structure
-
+ 
 ```
 Potato-Project/
 ├── README.md
 └── 2026 Learning Logs/
-    └── Month/
-        └── Date - Topic/
-            ├── SQL File
+    └── October/
+        ├── 1st October - SQL Window Functions & Aggregation/
+        │   ├── SQL-Interview-Problems.sql
+        │   └── README.md
+        └── 2nd October - Pandas Data Cleaning & EDA/
+            ├── Pandas-Data-Cleaning-EDA.py
             └── README.md
 ```
-
+ 
 Each day gets its own folder named `<date> - <topic>`, containing the code or analysis plus a short note on what I learned. Months are grouped inside the year folder, so the repo stays organized as it grows.
-
+ 
 ---
 
 ## 🧭 How Each Entry Is Structured
