@@ -1,4 +1,4 @@
-# Day 2: Pandas Data Cleaning & Exploratory Data Analysis (EDA)
+# Pandas Data Cleaning & Exploratory Data Analysis (EDA)
 
 **Date:** October 2, 2026
 **Tools:** Python, Pandas, NumPy
