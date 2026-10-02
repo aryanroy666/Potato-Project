@@ -1,5 +1,5 @@
 -- =====================================================================
--- Potato Project: Day 1
+-- Potato Project Topic: SQL
 -- SQL Interview Problems - Window Functions & Aggregation
 -- Date: Oct 1, 2026
 -- Syntax: PostgreSQL
