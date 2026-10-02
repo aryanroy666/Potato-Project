@@ -1,4 +1,4 @@
-# Day 1: SQL Window Functions & Aggregation
+# SQL Window Functions & Aggregation
 
 **Date:** October 1, 2026
 
