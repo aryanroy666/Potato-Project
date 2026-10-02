@@ -1,5 +1,5 @@
 """
-Potato Project: Day 2
+Potato Project Topic: Pandas
 Pandas Data Cleaning & Exploratory Data Analysis (EDA)
 Date: Oct 2, 2026
 
