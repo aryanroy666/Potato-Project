@@ -2,7 +2,7 @@
 
 **Dialect:** PostgreSQL
 
-**File:** [SQL Window Functions & Aggregation.sql](./SQL%20Window%20Functions%20&%20Aggregation.sql)
+**File:** [SQL Window Functions & Aggregation.sql](./SQL%20Window%20Functions%20and%20Aggregation.sql)
 
 ## What I Learned
 
