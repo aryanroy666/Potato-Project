@@ -1,7 +1,7 @@
 """
 Potato Project Topic: Pandas
-Pandas Data Cleaning & Exploratory Data Analysis (EDA)
-Date: Oct 2, 2026
+
+Data Cleaning & Exploratory Data Analysis (EDA)
 
 What this script does:
     1. Builds a small, deliberately MESSY retail dataset (so no download is needed)
