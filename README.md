@@ -2,7 +2,7 @@
 
 A long-running daily log of my data analytics journey. Every day I add one small, real piece of work: a SQL problem set, a Python analysis, a dashboard, or an interview prep note. The goal is simple: **show up every day, learn something concrete, and keep the proof.**
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Updates](https://img.shields.io/badge/updates-daily-blue)
 ![Focus](https://img.shields.io/badge/focus-data%20analytics-orange)
 
