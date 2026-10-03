@@ -1,7 +1,6 @@
 -- =====================================================================
--- Potato Project Topic: SQL
--- SQL Interview Problems - Window Functions & Aggregation
--- Date: Oct 1, 2026
+-- Potato Project Topic: SQL Interview Problems
+-- SQL Window Functions & Aggregation
 -- Syntax: PostgreSQL
 -- Table: sales(employee_id, customer_id, department, category,
 --              product_name, sale_date, sale_amount)
