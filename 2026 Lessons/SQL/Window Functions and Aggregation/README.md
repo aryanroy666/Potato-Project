@@ -1,10 +1,8 @@
 # SQL Window Functions & Aggregation
 
-**Date:** October 1, 2026
-
 **Dialect:** PostgreSQL
 
-**File:** [SQL Interview Problems](https://github.com/aryanroy666/Potato-Project/blob/main/2026%20Learning%20Logs/October/1st%20October%20-%20SQL%20Window%20Functions%20%26%20Aggregation/SQL-Interview-Problems.sql)
+**File:** [SQL Window Functions & Aggregation.py](./)
 
 ## What I Learned
 
