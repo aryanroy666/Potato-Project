@@ -2,7 +2,7 @@
 
 **Tools:** Python, Pandas, NumPy
 
-**File:** [`Pandas-Data-Cleaning-EDA.py`](./Pandas-Data-Cleaning-EDA.py)
+**File:** [`Pandas Data Cleaning & EDA.py`](./Pandas%20Data%20Cleaning%20&%20EDA.py)
 
 ## What I Learned
 
