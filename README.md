@@ -61,7 +61,7 @@ Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power B
 
 Every daily entry follows the same simple pattern:
 
-1. **The work**: a SQL file, notebook, script, or dashboard
+1. **The work**: an SQL file, notebook, script, or dashboard
 2. **A short note**: what I learned, explained in plain language with an example
 3. **Interview angle**: how the concept shows up in real questions and business scenarios
 
