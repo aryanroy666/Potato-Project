@@ -1,7 +1,7 @@
 # Pandas Data Cleaning & Exploratory Data Analysis (EDA)
 
-**Date:** October 2, 2026
 **Tools:** Python, Pandas, NumPy
+
 **File:** [`Pandas-Data-Cleaning-EDA.py`](./Pandas-Data-Cleaning-EDA.py)
 
 ## What I Learned
