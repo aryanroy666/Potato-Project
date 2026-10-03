@@ -42,11 +42,15 @@ Potato-Project/
     ├── SQL/
     │   └── Window Functions and Aggregation/
     │       ├── README.md
-    │       └── SQL Interview Problems - Window Functions and Aggregation.sql
-    └── Pandas/
-        └── Data Cleaning EDA/
+    │       └── SQL Window Functions and Aggregation.sql
+    ├── Pandas/
+    │   └── Data Cleaning EDA/
+    │       ├── README.md
+    │       └── Pandas Data Cleaning & EDA.py
+    └── Statistics/
+        └── AB Testing and Hypothesis Testing/
             ├── README.md
-            └── Pandas Data Cleaning & EDA.py
+            └── AB Testing and Hypothesis Testing.py
 ```
  
 Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
