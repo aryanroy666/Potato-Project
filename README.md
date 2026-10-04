@@ -40,9 +40,12 @@ Potato-Project/
 ├── README.md
 └── 2026 Lessons/
     ├── SQL/
-    │   └── Window Functions and Aggregation/
+    │   ├── Window Functions and Aggregation/
+    │   │   ├── README.md
+    │   │   └── SQL Window Functions and Aggregation.sql
+    │   └── CTEs & Subqueries/
     │       ├── README.md
-    │       └── SQL Window Functions and Aggregation.sql
+    │       └── SQL CTEs & Subqueries.sql
     ├── Pandas/
     │   └── Data Cleaning EDA/
     │       ├── README.md
