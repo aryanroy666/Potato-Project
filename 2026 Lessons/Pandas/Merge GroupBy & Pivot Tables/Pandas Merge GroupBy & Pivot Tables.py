@@ -1,6 +1,6 @@
 """
 Potato Project Topic: Pandas
-Pandas Merge, GroupBy and Pivot Tables
+Pandas Merge, GroupBy & Pivot Tables
 
 The three tools behind almost every analyst report:
     1. MERGE  : combine tables (the pandas version of SQL JOIN)
