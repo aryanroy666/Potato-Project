@@ -7,7 +7,7 @@ The three tools behind almost every analyst report:
     2. GROUPBY: split the data into groups, calculate, combine (SQL GROUP BY)
     3. PIVOT  : reshape results into a readable cross-table (Excel pivot table)
 
-Run it with:  python "Pandas Merge GroupBy and Pivot Tables.py"
+Run it with:  python "Pandas Merge GroupBy & Pivot Tables.py"
 Requires:     pandas
 """
 
