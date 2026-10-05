@@ -1,5 +1,5 @@
 """
-Potato Project: Day 5
+Potato Project Topic: 
 Pandas Merge, GroupBy and Pivot Tables
 
 The three tools behind almost every analyst report:
