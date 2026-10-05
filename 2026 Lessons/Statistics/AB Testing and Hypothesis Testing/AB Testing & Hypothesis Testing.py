@@ -1,6 +1,6 @@
 """
 Potato Project Topic: Statistics
-A/B Testing and Hypothesis Testing
+A/B Testing & Hypothesis Testing
 
 Scenario:
     An e-commerce site tests a new "Buy Now" button (Variant B) against the
