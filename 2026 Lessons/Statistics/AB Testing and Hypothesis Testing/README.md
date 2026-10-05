@@ -80,7 +80,7 @@ Welch's version is the safer default because it does not assume equal variance i
 
 ```bash
 pip install numpy scipy
-python "AB Testing and Hypothesis Testing.py"
+python "AB Testing & Hypothesis Testing.py"
 ```
 
 The random seed is fixed, so your output matches the table above.
