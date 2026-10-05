@@ -40,7 +40,7 @@ Potato-Project/
 ├── README.md
 └── 2026 Lessons/
     ├── SQL/
-    │   ├── Window Functions and Aggregation/
+    │   ├── Window Functions & Aggregation/
     │   │   ├── README.md
     │   │   └── SQL Window Functions and Aggregation.sql
     │   └── CTEs & Subqueries/
