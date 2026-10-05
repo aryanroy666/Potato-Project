@@ -47,9 +47,12 @@ Potato-Project/
     │       ├── README.md
     │       └── SQL CTEs & Subqueries.sql
     ├── Pandas/
-    │   └── Data Cleaning EDA/
+    │   ├── Data Cleaning EDA/
+    │   │   ├── README.md
+    │   │   └── Pandas Data Cleaning & EDA.py
+    │   └── Merge GroupBy and Pivot Tables/
     │       ├── README.md
-    │       └── Pandas Data Cleaning & EDA.py
+    │       └── Pandas Merge GroupBy and Pivot Tables.py
     └── Statistics/
         └── AB Testing and Hypothesis Testing/
             ├── README.md
