@@ -42,7 +42,7 @@ Potato-Project/
     ├── SQL/
     │   ├── Window Functions & Aggregation/
     │   │   ├── README.md
-    │   │   └── SQL Window Functions and Aggregation.sql
+    │   │   └── SQL Window Functions & Aggregation.sql
     │   └── CTEs & Subqueries/
     │       ├── README.md
     │       └── SQL CTEs & Subqueries.sql
