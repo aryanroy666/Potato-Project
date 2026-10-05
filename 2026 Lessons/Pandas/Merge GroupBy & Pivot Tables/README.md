@@ -86,7 +86,7 @@ The script builds three small related tables (customers, products, orders), join
 
 ```bash
 pip install pandas
-python "Pandas Merge GroupBy and Pivot Tables.py"
+python "Pandas Merge GroupBy & Pivot Tables.py"
 ```
 
 The data is built inside the script, so no download is needed and the output is identical every time.
