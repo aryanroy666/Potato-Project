@@ -1,7 +1,7 @@
 # Pandas Merge, GroupBy and Pivot Tables
 
 **Tools:** Python, Pandas
-**File:** [`Pandas Merge GroupBy and Pivot Tables.py`](./Pandas%20Merge%20GroupBy%20&%20Pivot%20Tables.py)
+**File:** [`Pandas Merge GroupBy & Pivot Tables.py`](./Pandas%20Merge%20GroupBy%20&%20Pivot%20Tables.py)
 
 ## What I Learned
 
