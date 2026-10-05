@@ -50,13 +50,13 @@ Potato-Project/
     │   ├── Data Cleaning EDA/
     │   │   ├── README.md
     │   │   └── Pandas Data Cleaning & EDA.py
-    │   └── Merge GroupBy and Pivot Tables/
+    │   └── Merge GroupBy & Pivot Tables/
     │       ├── README.md
-    │       └── Pandas Merge GroupBy and Pivot Tables.py
+    │       └── Pandas Merge GroupBy & Pivot Tables.py
     └── Statistics/
-        └── AB Testing and Hypothesis Testing/
+        └── AB Testing & Hypothesis Testing/
             ├── README.md
-            └── AB Testing and Hypothesis Testing.py
+            └── AB Testing & Hypothesis Testing.py
 ```
  
 Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
