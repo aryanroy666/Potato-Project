@@ -1,8 +1,8 @@
-# A/B Testing and Hypothesis Testing
+# A/B Testing & Hypothesis Testing
 
 **Tools:** Python, NumPy, SciPy
 
-**File:** [`AB Testing and Hypothesis Testing.py`](./AB%20Testing%20&%20Hypothesis%20Testing.py)
+**File:** [`AB Testing & Hypothesis Testing.py`](./AB%20Testing%20&%20Hypothesis%20Testing.py)
 
 ## What I Learned
 
