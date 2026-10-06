@@ -53,10 +53,20 @@ Potato-Project/
     │   └── Merge GroupBy & Pivot Tables/
     │       ├── README.md
     │       └── Pandas Merge GroupBy & Pivot Tables.py
-    └── Statistics/
-        └── AB Testing & Hypothesis Testing/
+    ├── Statistics/
+    │   └── AB Testing & Hypothesis Testing/
+    │       ├── README.md
+    │       └── AB Testing & Hypothesis Testing.py
+    └── Visualization/
+        └── Matplotlib Charts for Business Insights/
             ├── README.md
-            └── AB Testing & Hypothesis Testing.py
+            ├── Matplotlib Charts for Business Insights.py
+            └── charts/
+                ├── 1_monthly_revenue_trend.png
+                ├── 2_revenue_by_category.png
+                ├── 3_order_value_distribution.png
+                ├── 4_discount_vs_units.png
+                └── 5_dashboard_overview.png
 ```
  
 Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
