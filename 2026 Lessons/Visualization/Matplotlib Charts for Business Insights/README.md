@@ -3,7 +3,8 @@
 **Tools:** Python, Matplotlib, Pandas, NumPy
 
 **File:** [`Matplotlib Charts for Business Insights.py`](./Matplotlib%20Charts%20for%20Business%20Insights.py)
-**Charts:** saved in the [`charts`](./charts) folder
+
+**Charts:** Saved in the [`charts`](./charts) folder
 
 ![Retail Sales Overview dashboard](./charts/5_dashboard_overview.png)
 
