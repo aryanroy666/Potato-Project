@@ -1,6 +1,5 @@
 -- =====================================================================
 -- Potato Project Topic: SQL Joins and Set Operations
--- Day 7
 -- Syntax: standard SQL (PostgreSQL-friendly; notes below for MySQL/SQL Server)
 -- Tables: departments, employees, customers, orders, support_tickets,
 --         colors, sizes, newsletter_subscribers, app_users
