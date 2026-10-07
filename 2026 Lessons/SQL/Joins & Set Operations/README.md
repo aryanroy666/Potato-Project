@@ -1,7 +1,8 @@
 # SQL Joins and Set Operations
 
 **Tools:** SQL (standard syntax; tested to run in PostgreSQL-style engines and SQLite)
-**File:** [`SQL Joins and Set Operations.sql`](./SQL%20Joins%20and%20Set%20Operations.sql)
+
+**File:** [`SQL Joins & Set Operations.sql`](./SQL%20Joins%20and%20Set%20Operations.sql)
 
 ## What I Learned
 
