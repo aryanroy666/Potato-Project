@@ -48,7 +48,7 @@ Potato-Project/
     │   │   └── SQL CTEs & Subqueries.sql
     │   └── Joins & Set Operations/
     │       ├── README.md
-    │       └── SQL Joins and Set Operations.sql
+    │       └── SQL Joins & Set Operations.sql
     ├── Pandas/
     │   ├── Data Cleaning EDA/
     │   │   ├── README.md
