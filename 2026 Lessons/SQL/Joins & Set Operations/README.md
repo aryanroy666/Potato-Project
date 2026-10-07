@@ -1,4 +1,4 @@
-# SQL Joins and Set Operations
+# SQL Joins & Set Operations
 
 **Tools:** SQL (standard syntax; tested to run in PostgreSQL-style engines and SQLite)
 
