@@ -43,9 +43,12 @@ Potato-Project/
     │   ├── Window Functions & Aggregation/
     │   │   ├── README.md
     │   │   └── SQL Window Functions & Aggregation.sql
-    │   └── CTEs & Subqueries/
+    │   ├── CTEs & Subqueries/
+    │   │   ├── README.md
+    │   │   └── SQL CTEs & Subqueries.sql
+    │   └── Joins and Set Operations/
     │       ├── README.md
-    │       └── SQL CTEs & Subqueries.sql
+    │       └── SQL Joins and Set Operations.sql
     ├── Pandas/
     │   ├── Data Cleaning EDA/
     │   │   ├── README.md
