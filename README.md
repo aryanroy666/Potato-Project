@@ -14,6 +14,7 @@ A long-running daily log of my data analytics journey. Every day I add one small
 - Create a public, searchable record of real analytics work
 - Practice explaining concepts in plain language, the way I would in an interview
 - Collect reusable SQL, Python, and BI solutions in one place
+- Build a professional portfolio that demonstrates practical, job-ready skills
 
 Think of this repo as a gym log for analytics skills: each entry is small, but the history shows the real progress.
 
