@@ -60,6 +60,12 @@ Potato-Project/
     │   └── AB Testing & Hypothesis Testing/
     │       ├── README.md
     │       └── AB Testing & Hypothesis Testing.py
+    ├── Machine Learning/
+    │   └── Linear Regression for Sales Prediction/
+    │       ├── README.md
+    │       ├── Linear Regression for Sales Prediction.py
+    │       └── charts/
+    │           └── regression_results.png
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
             ├── README.md
