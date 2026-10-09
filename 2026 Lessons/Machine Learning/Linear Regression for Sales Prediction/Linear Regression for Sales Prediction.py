@@ -1,5 +1,5 @@
 """
-Potato Project: Day 8
+Potato Project Topic: Machine Learning
 Linear Regression for Sales Prediction
 
 Business question:
