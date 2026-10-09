@@ -1,7 +1,9 @@
 # Linear Regression for Sales Prediction
 
 **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+
 **File:** [`Linear Regression for Sales Prediction.py`](./Linear%20Regression%20for%20Sales%20Prediction.py)
+
 **Chart:** [`charts/regression_results.png`](./charts/regression_results.png)
 
 ![Regression results: predicted vs actual, and residuals](./charts/regression_results.png)
