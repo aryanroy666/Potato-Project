@@ -1,5 +1,5 @@
 """
-Potato Project: Day 9
+Potato Project Topic: Time Series
 Time Series Analysis with Pandas
 
 Business question:
