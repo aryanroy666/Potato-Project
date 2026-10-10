@@ -66,6 +66,12 @@ Potato-Project/
     │       ├── Linear Regression for Sales Prediction.py
     │       └── charts/
     │           └── regression_results.png
+    ├── Time Series/
+    │   └── Time Series Analysis with Pandas/
+    │       ├── README.md
+    │       ├── Time Series Analysis with Pandas.py
+    │       └── charts/
+    │           └── time_series_overview.png
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
             ├── README.md
