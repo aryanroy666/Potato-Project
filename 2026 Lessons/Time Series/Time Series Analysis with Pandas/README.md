@@ -1,7 +1,9 @@
 # Time Series Analysis with Pandas
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
+
 **File:** [`Time Series Analysis with Pandas.py`](./Time%20Series%20Analysis%20with%20Pandas.py)
+
 **Chart:** [`charts/time_series_overview.png`](./charts/time_series_overview.png)
 
 ![Time series overview: trend, weekday pattern, forecast comparison](./charts/time_series_overview.png)
