@@ -72,6 +72,12 @@ Potato-Project/
     │       ├── Time Series Analysis with Pandas.py
     │       └── charts/
     │           └── time_series_overview.png
+    ├── Customer Analytics/
+    │   └── RFM Customer Segmentation/
+    │       ├── README.md
+    │       ├── RFM Customer Segmentation.py
+    │       └── charts/
+    │           └── rfm_segments.png
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
             ├── README.md
