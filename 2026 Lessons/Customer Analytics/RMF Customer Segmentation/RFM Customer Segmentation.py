@@ -1,5 +1,5 @@
 """
-Potato Project: Day 10
+Potato Project Topic: Cusstomer Analytics
 RFM Customer Segmentation
 
 Business question:
