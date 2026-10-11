@@ -1,7 +1,9 @@
 # RFM Customer Segmentation
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
+
 **File:** [`RFM Customer Segmentation.py`](./RFM%20Customer%20Segmentation.py)
+
 **Chart:** [`charts/rfm_segments.png`](./charts/rfm_segments.png)
 
 ![RFM segments: share of customers vs revenue, and recency vs frequency](./charts/rfm_segments.png)
