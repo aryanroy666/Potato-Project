@@ -1,7 +1,9 @@
 # Cohort Retention Analysis
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
+
 **File:** [`Cohort Retention Analysis.py`](./Cohort%20Retention%20Analysis.py)
+
 **Chart:** [`charts/cohort_retention_heatmap.png`](./charts/cohort_retention_heatmap.png)
 
 ![Cohort retention heatmap and average retention curve](./charts/cohort_retention_heatmap.png)
