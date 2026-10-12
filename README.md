@@ -73,11 +73,16 @@ Potato-Project/
     │       └── charts/
     │           └── time_series_overview.png
     ├── Customer Analytics/
-    │   └── RFM Customer Segmentation/
+    │   ├── RFM Customer Segmentation/
+    │   │   ├── README.md
+    │   │   ├── RFM Customer Segmentation.py
+    │   │   └── charts/
+    │   │       └── rfm_segments.png
+    │   └── Cohort Retention Analysis/
     │       ├── README.md
-    │       ├── RFM Customer Segmentation.py
+    │       ├── Cohort Retention Analysis.py
     │       └── charts/
-    │           └── rfm_segments.png
+    │           └── cohort_retention_heatmap.png
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
             ├── README.md
