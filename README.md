@@ -60,7 +60,7 @@ Potato-Project/
         └── Matplotlib Charts for Business Insights/
 ```
  
-Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
+Pattern: Year → Subject → Topic. Each topic folder holds its own README.md, the code file, and a charts folder where there are visuals. New subjects (Power BI, Excel, Python Basics, and so on) get their own folder under the year.
  
 ---
 
