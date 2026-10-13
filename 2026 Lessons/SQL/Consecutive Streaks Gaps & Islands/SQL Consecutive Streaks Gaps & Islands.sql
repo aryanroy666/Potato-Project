@@ -1,5 +1,5 @@
 -- =====================================================================
--- Potato Project Topic: SQL Consecutive Streaks (Gaps and Islands)
+-- Potato Project Topic: SQL Consecutive Streaks (Gaps & Islands)
 -- Syntax: PostgreSQL (also runs unchanged in DuckDB; notes for other dialects)
 -- Tables: logins, orders, events
 -- =====================================================================
