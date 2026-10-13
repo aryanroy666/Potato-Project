@@ -40,59 +40,24 @@ Potato-Project/
 ├── README.md
 └── 2026 Lessons/
     ├── SQL/
-    │   ├── Window Functions & Aggregation/
-    │   │   ├── README.md
-    │   │   └── SQL Window Functions & Aggregation.sql
+    │   ├── Window Functions and Aggregation/
     │   ├── CTEs & Subqueries/
-    │   │   ├── README.md
-    │   │   └── SQL CTEs & Subqueries.sql
-    │   └── Joins & Set Operations/
-    │       ├── README.md
-    │       └── SQL Joins & Set Operations.sql
+    │   ├── Joins and Set Operations/
+    │   └── Consecutive Streaks Gaps and Islands/
     ├── Pandas/
     │   ├── Data Cleaning EDA/
-    │   │   ├── README.md
-    │   │   └── Pandas Data Cleaning & EDA.py
-    │   └── Merge GroupBy & Pivot Tables/
-    │       ├── README.md
-    │       └── Pandas Merge GroupBy & Pivot Tables.py
+    │   └── Merge GroupBy and Pivot Tables/
     ├── Statistics/
-    │   └── AB Testing & Hypothesis Testing/
-    │       ├── README.md
-    │       └── AB Testing & Hypothesis Testing.py
+    │   └── AB Testing and Hypothesis Testing/
     ├── Machine Learning/
     │   └── Linear Regression for Sales Prediction/
-    │       ├── README.md
-    │       ├── Linear Regression for Sales Prediction.py
-    │       └── charts/
-    │           └── regression_results.png
     ├── Time Series/
     │   └── Time Series Analysis with Pandas/
-    │       ├── README.md
-    │       ├── Time Series Analysis with Pandas.py
-    │       └── charts/
-    │           └── time_series_overview.png
     ├── Customer Analytics/
     │   ├── RFM Customer Segmentation/
-    │   │   ├── README.md
-    │   │   ├── RFM Customer Segmentation.py
-    │   │   └── charts/
-    │   │       └── rfm_segments.png
     │   └── Cohort Retention Analysis/
-    │       ├── README.md
-    │       ├── Cohort Retention Analysis.py
-    │       └── charts/
-    │           └── cohort_retention_heatmap.png
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
-            ├── README.md
-            ├── Matplotlib Charts for Business Insights.py
-            └── charts/
-                ├── 1_monthly_revenue_trend.png
-                ├── 2_revenue_by_category.png
-                ├── 3_order_value_distribution.png
-                ├── 4_discount_vs_units.png
-                └── 5_dashboard_overview.png
 ```
  
 Pattern: **Year → Subject → Topic → files.** New subjects (Python, Power BI, Statistics, and so on) get their own folder under the year.
