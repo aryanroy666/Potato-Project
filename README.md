@@ -115,7 +115,3 @@ This repo has no end date. The themes below rotate over time:
 ## 🤝 Feedback
 
 Spotted a mistake, or know a cleaner way to solve something? Open an issue or send a pull request. Corrections are welcome, and I'll credit improvements in the day's notes.
-
----
-
-⭐ If you find something useful here, consider starring the repo.
