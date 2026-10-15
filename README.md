@@ -50,7 +50,8 @@ Potato-Project/
     ├── Statistics/
     │   └── AB Testing and Hypothesis Testing/
     ├── Machine Learning/
-    │   └── Linear Regression for Sales Prediction/
+    │   ├── Linear Regression for Sales Prediction/
+    │   └── Logistic Regression for Churn Prediction/
     ├── Time Series/
     │   └── Time Series Analysis with Pandas/
     ├── Customer Analytics/
