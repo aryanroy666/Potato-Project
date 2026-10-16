@@ -40,18 +40,19 @@ Potato-Project/
 ├── README.md
 └── 2026 Lessons/
     ├── SQL/
-    │   ├── Window Functions and Aggregation/
+    │   ├── Window Functions & Aggregation/
     │   ├── CTEs & Subqueries/
-    │   ├── Joins and Set Operations/
-    │   └── Consecutive Streaks Gaps and Islands/
+    │   ├── Joins & Set Operations/
+    │   └── Consecutive Streaks Gaps & Islands/
     ├── Pandas/
     │   ├── Data Cleaning EDA/
-    │   └── Merge GroupBy and Pivot Tables/
+    │   └── Merge GroupBy & Pivot Tables/
     ├── Statistics/
-    │   └── AB Testing and Hypothesis Testing/
+    │   └── AB Testing & Hypothesis Testing/
     ├── Machine Learning/
     │   ├── Linear Regression for Sales Prediction/
-    │   └── Logistic Regression for Churn Prediction/
+    │   ├── Logistic Regression for Churn Prediction/
+    │   └── Decision Trees & Random Forests/
     ├── Time Series/
     │   └── Time Series Analysis with Pandas/
     ├── Customer Analytics/
