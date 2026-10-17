@@ -52,7 +52,8 @@ Potato-Project/
     ├── Machine Learning/
     │   ├── Linear Regression for Sales Prediction/
     │   ├── Logistic Regression for Churn Prediction/
-    │   └── Decision Trees & Random Forests/
+    │   ├── Decision Trees & Random Forests/
+    │   └── K-Means Clustering for Customer Segmentation/
     ├── Time Series/
     │   └── Time Series Analysis with Pandas/
     ├── Customer Analytics/
