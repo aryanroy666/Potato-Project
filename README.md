@@ -58,7 +58,8 @@ Potato-Project/
     │   └── Time Series Analysis with Pandas/
     ├── Customer Analytics/
     │   ├── RFM Customer Segmentation/
-    │   └── Cohort Retention Analysis/
+    │   ├── Cohort Retention Analysis/
+    │   └── Market Basket Analysis/
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
 ```
