@@ -1,7 +1,9 @@
 # Excel Report Automation with openpyxl
 
 **Tools:** Python, openpyxl (Pandas and NumPy only to build the sample data)
+
 **File:** [`Excel Report Automation with openpyxl.py`](./Excel%20Report%20Automation%20with%20openpyxl.py)
+
 **Output:** [`Regional_Sales_Report.xlsx`](./Regional_Sales_Report.xlsx)
 
 ## What I Learned
