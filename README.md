@@ -60,6 +60,8 @@ Potato-Project/
     │   ├── RFM Customer Segmentation/
     │   ├── Cohort Retention Analysis/
     │   └── Market Basket Analysis/
+    ├── Excel/
+    │   └── Excel Report Automation with openpyxl/
     └── Visualization/
         └── Matplotlib Charts for Business Insights/
 ```
