@@ -6,7 +6,7 @@
 
 **Chart:** [`charts/decomposition.png`](./charts/decomposition.png), [`charts/forecast_backtest.png`](./charts/forecast_backtest.png)
 
-![Seasonal Decomposition and Forecast Backtesting Overview](./charts/decomposition.png)(./charts/forecast_backtest.png)
+![Seasonal Decomposition and Forecast Backtesting Overview](./charts/decomposition.png)
 
 
 
