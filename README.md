@@ -1,4 +1,4 @@
-# 🥔 Potato Project (New Version)
+# 🥔 Potato Project
 
 A long-running daily log of my data analytics journey. Every day I add one small, real piece of work: a SQL problem set, a Python analysis, a dashboard, or an interview prep note. The goal is simple: **show up every day, learn something concrete, and keep the proof.**
 
@@ -57,7 +57,8 @@ Potato-Project/
     │   ├── K-Means Clustering for Customer Segmentation/
     │   └── Feature Engineering for Machine Learning/
     ├── Time Series/
-    │   └── Time Series Analysis with Pandas/
+    │   ├── Time Series Analysis with Pandas/
+    │   └── Seasonal Decomposition and Forecast Backtesting/
     ├── Customer Analytics/
     │   ├── RFM Customer Segmentation/
     │   ├── Cohort Retention Analysis/
