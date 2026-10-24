@@ -49,7 +49,8 @@ Potato-Project/
     │   ├── Data Cleaning EDA/
     │   └── Merge GroupBy & Pivot Tables/
     ├── Statistics/
-    │   └── AB Testing & Hypothesis Testing/
+    │   ├── AB Testing & Hypothesis Testing/
+    │   └── Probability Distributions & CLT/
     ├── Machine Learning/
     │   ├── Linear Regression for Sales Prediction/
     │   ├── Logistic Regression for Churn Prediction/
